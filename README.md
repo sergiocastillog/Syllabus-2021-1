@@ -1,4 +1,4 @@
-# TICS575 - Técnicas para Big Data
+# TICS575 - Técnicas para Big Data Sergio Castillo
 
 ## Descripción del curso
 
